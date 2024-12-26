@@ -1,1 +1,0 @@
-- [GitHub репозиторий с множеством агентов](https://github.com/NirDiamant/GenAI_Agents?tab=readme-ov-file)
